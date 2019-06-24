@@ -1,50 +1,36 @@
-
 {  
-  "title":"Default",
+  "title":"CompletelyOwn",
   "slabs":{  
     "user":{  
       "upi":[  
         {  
-          "upperlimit":500,
+          "lowerlimit":0,
           "amount":0
-        },
-        {  
-          "upperlimit":4000,
-          "lowerlimit":501,
-          "amountpercentage":1.2
         }
       ],
       "netbanking":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+       "wallet":[  
         {  
-          "upperlimit":7000,
-          "lowerlimit":4001,
-          "amount":5000
-        },
-        {  
-          "upperlimit":10000,
-          "lowerlimit":7001,
-          "amount":6500
-        },
-        {  
-          "lowerlimit":10001,
-          "amount":10000
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
         }
       ]
     },
-    "admin":[  
+    "admin":[
       {  
-        "upperlimit":7000,
-        "lowerlimit":4001,
-        "amount":5000
-      },
-      {  
-        "upperlimit":10000,
-        "lowerlimit":7001,
-        "amount":6500
-      },
-      {  
-        "lowerlimit":10001,
-        "amount":10000
+        "lowerlimit":0,
+        "amountpercentage":1.80
       }
     ]
   }
