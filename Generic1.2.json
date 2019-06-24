@@ -1,63 +1,56 @@
-{  
-  "title":"Default",
-  "slabs":{  
-    "user":{  
-      "upi":[  
-        {  
-          "upperlimit":500,
+{
+  "title":"Generic1.2",
+  "slabs":{
+    "user":{
+      "upi":[
+        {
+          "lowerlimit":0,
           "amount":0
-        },
-        {  
-          "upperlimit":4000,
-          "lowerlimit":501,
-          "amountpercentage":1.2
-        },
-        {  
-          "upperlimit":500,
-          "amount":0
-        },
-        {  
-          "upperlimit":4000,
-          "lowerlimit":501,
-          "amountpercentage":1.2
-        },
-        {  
-          "upperlimit":4000,
-          "lowerlimit":501,
-          "amountpercentage":1.2
         }
       ],
-      "netbanking":[  
-        {  
-          "upperlimit":7000,
-          "lowerlimit":4001,
-          "amount":5000
+      "netbanking":[
+        {
+          "lowerlimit":400100,
+          "amount":0
         },
-        {  
-          "upperlimit":10000,
-          "lowerlimit":7001,
-          "amount":6500
+        {
+          "upperlimit":400000,
+          "lowerlimit":1,
+          "amountpercentage":0.30
+        }
+      ],
+      "wallet":[
+        {
+          "lowerlimit":400100,
+          "amount":0
         },
-        {  
-          "lowerlimit":10001,
-          "amount":10000
+        {
+          "upperlimit":400000,
+          "lowerlimit":1,
+          "amountpercentage":0.50
+        }
+      ],
+      "card":[
+        {
+          "lowerlimit":400100,
+          "amount":0
+        },
+        {
+          "upperlimit":400000,
+          "lowerlimit":1,
+          "amountpercentage":0.40
         }
       ]
     },
-    "admin":[  
-      {  
-        "upperlimit":7000,
-        "lowerlimit":4001,
-        "amount":5000
+    "admin":[
+      {
+        "lowerlimit":400100,
+        "amountpercentage":1.80
       },
-      {  
-        "upperlimit":10000,
-        "lowerlimit":7001,
-        "amount":6500
-      },
-      {  
-        "lowerlimit":10001,
-        "amount":10000
+      {
+        "upperlimit":400000,
+        "lowerlimit":1,
+        "amountpercentage":1.20
       }
     ]
   }
