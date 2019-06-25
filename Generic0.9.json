@@ -55,7 +55,7 @@
       {
         "upperlimit":400000,
         "lowerlimit":1,
-        "amountpercentage":.90
+        "amountpercentage":0.90
       }
     ]
   }
