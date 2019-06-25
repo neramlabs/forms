@@ -15,6 +15,7 @@
         },
         {  
           "upperlimit":400000,
+          "lowerlimit":0,
           "amount":1000
         }
       ],
@@ -25,6 +26,7 @@
         },
         {  
           "upperlimit":400000,
+          "lowerlimit":0,
           "amountpercentage":0.7
         }
       ],
@@ -35,6 +37,7 @@
         },
         {  
           "upperlimit":400000,
+          "lowerlimit":0,
           "amountpercentage":0.8
         }
       ]
@@ -46,6 +49,7 @@
         },
         {  
           "upperlimit":400000,
+          "lowerlimit":0,
           "amountpercentage":0.6
         }
     ]
