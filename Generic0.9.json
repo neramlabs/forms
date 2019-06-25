@@ -1,16 +1,21 @@
 {
-  "title":"Generic1.2",
+  "title":"Generic0.9",
   "slabs":{
     "user":{
       "upi":[
         {
-          "lowerlimit":0,
+          "lowerlimit":400001,
           "amount":0
         },
         { 
           "upperlimit":400000,
-          "lowerlimit":1,
+          "lowerlimit":200000,
           "amountpercentage":0.30
+        },
+        { 
+          "upperlimit":199999,
+          "lowerlimit":1,
+           "amount":0
         }
       ],
       "netbanking":[
@@ -20,19 +25,13 @@
         },
         { 
           "upperlimit":400000,
-          "lowerlimit":1,
-          "amountpercentage":0.60
-        }
-      ],
-      "wallet":[
-        {
-          "lowerlimit":400001,
-          "amount":0
+          "lowerlimit":200000,
+           "amount":1000
         },
-        {
-          "upperlimit":400000,
+        { 
+          "upperlimit":199999,
           "lowerlimit":1,
-          "amountpercentage":0.80
+           "amount":1000
         }
       ],
       "card":[
@@ -40,10 +39,31 @@
           "lowerlimit":400001,
           "amount":0
         },
-        {
+        { 
           "upperlimit":400000,
-          "lowerlimit":1,
+          "lowerlimit":200000,
           "amountpercentage":0.70
+        },
+        { 
+          "upperlimit":199999,
+          "lowerlimit":1,
+           "amountpercentage":0.70
+        }
+      ],
+      "wallet":[
+        {
+          "lowerlimit":400001,
+          "amount":0
+        },
+        { 
+          "upperlimit":400000,
+          "lowerlimit":200000,
+          "amountpercentage":0.80
+        },
+        { 
+          "upperlimit":199999,
+          "lowerlimit":1,
+           "amountpercentage":0.80
         }
       ]
     },
@@ -54,6 +74,11 @@
       },
       {
         "upperlimit":400000,
+        "lowerlimit":200000,
+        "amountpercentage":0.90
+      },
+      {
+        "upperlimit":199999,
         "lowerlimit":1,
         "amountpercentage":0.90
       }
