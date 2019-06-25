@@ -48,7 +48,6 @@
         {  
           "upperlimit":400000,
           "lowerlimit:0,
-          "amountpercentage":1.8
         }
     ]
   }
