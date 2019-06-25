@@ -2,15 +2,9 @@
   "title":"Try3months",
   "slabs":{  
     "user":{  
-      "upi":[  
-        {  
-          "lowerlimit":0,
-          "amount":0
-        }
-      ],
       "netbanking":[  
         {  
-          "lowerlimit":400002,
+          "lowerlimit":400001,
           "amount":0
         },
         {  
