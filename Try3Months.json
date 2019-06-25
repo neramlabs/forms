@@ -4,6 +4,16 @@
     "user":{
       "upi":[  
         {  
+          "lowerlimit":400001,
+          "amount":0
+        },
+        {  
+          "upperlimit":400000,
+          "lowerlimit":200000,
+          "amountpercentage":0.3
+        },
+        {  
+          "upperlimit":199999,
           "lowerlimit":0,
           "amount":0
         }
@@ -15,6 +25,11 @@
         },
         {  
           "upperlimit":400000,
+          "lowerlimit":200000,
+          "amount":1000
+        },
+        {  
+          "upperlimit":199999,
           "lowerlimit":0,
           "amount":1000
         }
@@ -26,8 +41,13 @@
         },
         {  
           "upperlimit":400000,
-          "amountpercentage":0.7,
-          "lowerlimit":0
+          "lowerlimit":200000,
+          "amountpercentage":0.7
+        },
+        {  
+          "upperlimit":199999,
+          "lowerlimit":0,
+          "amountpercentage":0.7
         }
       ],
       "wallet":[
@@ -37,8 +57,13 @@
         },
         {  
           "upperlimit":400000,
-          "amountpercentage":0.8,
-          "lowerlimit":0
+          "lowerlimit":200000,
+          "amountpercentage":0.8
+        },
+        {  
+          "upperlimit":199999,
+          "lowerlimit":0,
+          "amountpercentage":0.8
         }
       ]
     },
@@ -49,8 +74,13 @@
         },
         {  
           "upperlimit":400000,
-          "lowerlimit":0,
+          "lowerlimit":200000,
           "amountpercentage":0.6
+        },
+        {  
+          "upperlimit":199999,
+          "lowerlimit":0,
+          "amountpercentage":0.3
         }
     ]
   }
