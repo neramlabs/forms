@@ -50,7 +50,7 @@
         {  
           "upperlimit":400000,
           "lowerlimit":0,
-          "amountpercentage":0.8
+          "amountpercentage":0.6
         }
     ]
   }
