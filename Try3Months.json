@@ -47,7 +47,7 @@
         },
         {  
           "upperlimit":400000,
-          "lowerlimit:0,
+          "lowerlimit:0,c
           "amountpercentage":0.6
         }
     ]
