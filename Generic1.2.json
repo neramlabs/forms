@@ -4,7 +4,8 @@
     "user":{
       "upi":[
         {
-          "lowerlimit":0
+          "lowerlimit":0,
+          "amount":0
         }
       ],
       "netbanking":[
