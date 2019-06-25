@@ -10,7 +10,7 @@
       ],
       "netbanking":[
         {
-          "lowerlimit":400100,
+          "lowerlimit":400001
           "amount":0
         },
         {
@@ -21,7 +21,7 @@
       ],
       "wallet":[
         {
-          "lowerlimit":400100,
+          "lowerlimit":400001,
           "amount":0
         },
         {
@@ -32,7 +32,7 @@
       ],
       "card":[
         {
-          "lowerlimit":400100,
+          "lowerlimit":400001,
           "amount":0
         },
         {
@@ -44,7 +44,7 @@
     },
     "admin":[
       {
-        "lowerlimit":400100,
+        "lowerlimit":400001,
         "amountpercentage":1.80
       },
       {
