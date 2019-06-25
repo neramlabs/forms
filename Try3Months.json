@@ -32,7 +32,8 @@
       "wallet":[
         {  
           "lowerlimit":400001,
-          "amount":0
+          "amount":0,
+          "lowerlimit":0
         },
         {  
           "upperlimit":400000,
