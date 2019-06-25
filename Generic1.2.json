@@ -13,7 +13,8 @@
           "lowerlimit":400001,
           "amount":0
         },
-        {
+        { 
+          "upperlimit":400000,
           "lowerlimit":1,
           "amountpercentage":0.30
         }
