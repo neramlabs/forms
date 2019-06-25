@@ -16,18 +16,7 @@
         { 
           "upperlimit":400000,
           "lowerlimit":1,
-          "amountpercentage":0.30
-        }
-      ],
-      "wallet":[
-        {
-          "lowerlimit":400001,
-          "amount":0
-        },
-        {
-          "upperlimit":400000,
-          "lowerlimit":1,
-          "amountpercentage":0.50
+          "amount":1000
         }
       ],
       "card":[
@@ -39,6 +28,17 @@
           "upperlimit":400000,
           "lowerlimit":1,
           "amountpercentage":0.40
+        }
+      ],
+      "wallet":[
+        {
+          "lowerlimit":400001,
+          "amount":0
+        },
+        {
+          "upperlimit":400000,
+          "lowerlimit":1,
+          "amountpercentage":0.50
         }
       ]
     },
