@@ -6,6 +6,11 @@
         {
           "lowerlimit":0,
           "amount":0
+        },
+        { 
+          "upperlimit":400000,
+          "lowerlimit":1,
+          "amountpercentage":0.30
         }
       ],
       "netbanking":[
@@ -16,7 +21,7 @@
         { 
           "upperlimit":400000,
           "lowerlimit":1,
-          "amountpercentage":0.30
+          "amountpercentage":0.60
         }
       ],
       "wallet":[
@@ -27,7 +32,7 @@
         {
           "upperlimit":400000,
           "lowerlimit":1,
-          "amountpercentage":0.50
+          "amountpercentage":0.80
         }
       ],
       "card":[
@@ -38,7 +43,7 @@
         {
           "upperlimit":400000,
           "lowerlimit":1,
-          "amountpercentage":0.40
+          "amountpercentage":0.70
         }
       ]
     },
@@ -50,7 +55,7 @@
       {
         "upperlimit":400000,
         "lowerlimit":1,
-        "amountpercentage":1.20
+        "amountpercentage":.90
       }
     ]
   }
