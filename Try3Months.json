@@ -10,7 +10,7 @@
       ],
       "netbanking":[  
         {  
-          "lowerlimit":400001,
+          "lowerlimit":400002,
           "amount":0
         },
         {  
