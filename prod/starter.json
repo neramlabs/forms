@@ -16,24 +16,24 @@
         {  
           "upperlimit":1200000,
           "lowerlimit":700001,
-          "amount":15
+          "amount":1500
         },        {  
           "upperlimit":700000,
           "lowerlimit":400001,
-          "amount":15
+          "amount":1500
         },        {  
           "upperlimit":400000,
           "lowerlimit":200000,
-          "amount":10
+          "amount":1000
         },        {  
           "upperlimit":199999,
           "lowerlimit":50001,
-          "amount":8
+          "amount":800
         },
         {  
           "upperlimit":50000,
           "lowerlimit":1,
-          "amount":4
+          "amount":400
         }
       ],
       "card":[
