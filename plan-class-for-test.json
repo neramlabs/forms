@@ -32,7 +32,7 @@
         {  
           "upperlimit":4000,
           "lowerlimit":1,
-          "amountpercentage":11
+          "amountpercentage":1.8
         }
       ],
       "netbanking":[  
