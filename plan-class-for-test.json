@@ -4,51 +4,46 @@
     "user":{  
       "upi":[  
         {  
-          "upperlimit":500,
+          "lowerlimit":4001,
           "amount":0
         },
         {  
           "upperlimit":4000,
-          "lowerlimit":501,
+          "lowerlimit":1,
           "amountpercentage":1.2
         }
       ],
             "wallet":[  
         {  
-          "upperlimit":500,
+          "lowerlimit":4001,
           "amount":0
         },
         {  
           "upperlimit":4000,
-          "lowerlimit":501,
+          "lowerlimit":1,
           "amountpercentage":1.2
         }
       ],
             "card":[  
         {  
-          "upperlimit":500,
+          "lowerlimit":4001,
           "amount":0
         },
         {  
           "upperlimit":4000,
-          "lowerlimit":501,
+          "lowerlimit":1,
           "amountpercentage":1.2
         }
       ],
       "netbanking":[  
-        {  
-          "upperlimit":7000,
+         {  
           "lowerlimit":4001,
-          "amount":5000
+          "amount":0
         },
         {  
-          "upperlimit":10000,
-          "lowerlimit":7001,
-          "amount":98
-        },
-        {  
-          "lowerlimit":10001,
-          "amount":10000
+          "upperlimit":4000,
+          "lowerlimit":1,
+          "amountpercentage":1.2
         }
       ]
     },
