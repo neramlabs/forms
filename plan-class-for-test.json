@@ -27,7 +27,7 @@
             "card":[  
         {  
           "lowerlimit":4001,
-          "amount":10
+          "amount":100
         },
         {  
           "upperlimit":4000,
