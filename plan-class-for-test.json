@@ -13,6 +13,28 @@
           "amountpercentage":1.2
         }
       ],
+            "wallet":[  
+        {  
+          "upperlimit":500,
+          "amount":0
+        },
+        {  
+          "upperlimit":4000,
+          "lowerlimit":501,
+          "amountpercentage":1.2
+        }
+      ],
+            "card":[  
+        {  
+          "upperlimit":500,
+          "amount":0
+        },
+        {  
+          "upperlimit":4000,
+          "lowerlimit":501,
+          "amountpercentage":1.2
+        }
+      ],
       "netbanking":[  
         {  
           "upperlimit":7000,
