@@ -49,19 +49,14 @@
     },
     "admin":[  
       {  
-        "upperlimit":7000,
-        "lowerlimit":4001,
-        "amount":5000
-      },
-      {  
-        "upperlimit":10000,
-        "lowerlimit":7001,
-        "amount":6500
-      },
-      {  
-        "lowerlimit":10001,
-        "amount":10000
-      }
+          "lowerlimit":4001,
+          "amount":0
+        },
+        {  
+          "upperlimit":4000,
+          "lowerlimit":1,
+          "amountpercentage":1.2
+        }
     ]
   }
 }
