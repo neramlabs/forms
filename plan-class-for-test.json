@@ -27,12 +27,12 @@
             "card":[  
         {  
           "lowerlimit":4001,
-          "amount":0
+          "amount":10
         },
         {  
           "upperlimit":4000,
           "lowerlimit":1,
-          "amountpercentage":1.2
+          "amountpercentage":11
         }
       ],
       "netbanking":[  
