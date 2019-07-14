@@ -1,0 +1,82 @@
+{  
+  "title":"ApartmentPgRent",
+  "date" : "July 2019",
+  "slabs":{  
+    "user":{
+      "upi":[  
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+      ],	
+      "netbanking":[  
+        {  
+          "lowerlimit":2000001,
+           "amount":3000
+        },
+        {  
+          "upperlimit":2000000,
+          "lowerlimit":1200001,
+          "amount":3000
+        }, {  
+          "upperlimit":1200000,
+          "lowerlimit":800001,
+           "amount":2500
+        },        {  
+          "upperlimit":800000,
+          "lowerlimit":400001,
+           "amount":2000
+        },       {  
+          "upperlimit":400000,
+          "lowerlimit":50001,
+          "amount":1000
+        },
+        {  
+          "upperlimit":50000,
+          "lowerlimit":1,
+          "amount":500
+        }
+      ],
+      "card":[
+        {  
+          "lowerlimit":0,
+          "amountpercentage":0.5
+        }
+      ],
+      "wallet":[
+         {  
+          "lowerlimit":0,
+          "amountpercentage":0.7
+        }
+      ]
+    },
+    "admin":[  
+        {  
+          "lowerlimit":2000001,
+           "amountpercentage":1.2
+        },
+        {  
+          "upperlimit":2000000,
+          "lowerlimit":1200001,
+           "amount":4000
+        }, {  
+          "upperlimit":1200000,
+          "lowerlimit":800001,
+           "amount":3000
+        },        {  
+          "upperlimit":800000,
+          "lowerlimit":400001,
+           "amount":2000
+        },       {  
+          "upperlimit":400000,
+          "lowerlimit":50001,
+          "amount":1000
+        },
+        {  
+          "upperlimit":50000,
+          "lowerlimit":1,
+          "amount":0
+        }
+    ]
+  }
+}
