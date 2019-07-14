@@ -19,3 +19,14 @@ NetBank        4             8         10          15         15       NIL
 Card           0.9%         0.9%       0.6%        0.4%       0.2%     NIL           
 Wallet         0.9%         0.9%       0.7%        0.5%       0.3%     NIL    
 
+
+#Try3Months
+-----------------
+https://neramlabs.github.io/forms/prod/try3months.json
+
+             1-1999    |  - 4000    |  - MAX
+Admin          0.3          0.6%        0.9%    
+UPI            NIL           NIL         NIL     
+NetBank         8            16          20 
+Card           0.7%         0.7%       0.7%    
+Wallet         0.8%         0.8%       0.8% 
