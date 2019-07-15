@@ -30,7 +30,7 @@
         },        {  
           "upperlimit":199999,
           "lowerlimit":1,
-          "amount":800
+          "amountpercentage":-0.3
         }
       ],
       "card":[
