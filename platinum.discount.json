@@ -1,0 +1,49 @@
+{  
+  "title":"Platinum-discounts",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":700001,
+           "amountpercentage":-0.4
+        },        {  
+          "upperlimit":700000,
+          "lowerlimit":400001,
+          "amount":-2000
+        },        {  
+          "upperlimit":400000,
+          "lowerlimit":200000,
+          "amount":-1000
+        },        {  
+          "upperlimit":199999,
+          "lowerlimit":1,
+           "amountpercentage":-0.5
+        }
+      ],
+      "netbanking":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+       "wallet":[  
+        {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ]
+    },
+    "admin":[
+      {  
+        "lowerlimit":0,
+        "amountpercentage":1.60
+      }
+    ]
+  }
+}
