@@ -2,9 +2,9 @@
 https://neramlabs.github.io/forms/prod/0links.txt
 
 
-#Completely Owned
+#ProudOwner
 -----------------
-https://neramlabs.github.io/forms/prod/CompletelyOwn.json
+https://neramlabs.github.io/forms/prod/ProudOwner.json
     Admin : 1.8%
     Users : NIL for all methods
     
