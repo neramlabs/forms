@@ -34,7 +34,7 @@ Wallet         0.8%         0.8%       0.8%
 
 #Apartment +PayingGuest +Rent
 -----------------
-https://neramlabs.github.io/forms/prod/ApartmentPgRent.json
+https://neramlabs.github.io/forms/prod/Apartment.json
 
             1-500    |    - 4000  |   - 8000 |  - 12000 | - 20000 |  - MAX
 Admin          NIL          10          20         30         40       1.2%
@@ -42,4 +42,19 @@ UPI            NIL           NIL       NIL         NIL        NIL       NIL
 NetBank         5           10         20          25         30       30
 Card           0.5%         0.5%       0.5%        0.5%       0.5%    0.5%           
 Wallet         0.7%         0.7%       0.7%        0.7%       0.7%    0.7%    
+
+
+
+
+#PayingGuest +Rent
+-----------------
+https://neramlabs.github.io/forms/prod/PgRent.json
+
+            1-500    |    - 4000  |   - 8000 |  - 12000 | - 20000 |  - MAX
+Admin          NIL          25          45         70         90      1.2%
+UPI            NIL           NIL       NIL         NIL        NIL       NIL     
+NetBank         5           10         20          25         30       30
+Card           0.5%         0.5%       0.5%        0.5%       0.5%    0.5%           
+Wallet         0.7%         0.7%       0.7%        0.7%       0.7%    0.7%    
+
 
