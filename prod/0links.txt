@@ -8,6 +8,13 @@ https://neramlabs.github.io/forms/prod/ProudOwner.json
     Admin : 1.8%
     Users : NIL for all methods
     
+Platinum
+-----------------
+https://neramlabs.github.io/forms/prod/Platinum.json
+    Admin : 1.6%
+    Users : NIL for all methods
+    (may add Gift on UPI payments)
+    
 #Starter
 -----------------
 https://neramlabs.github.io/forms/prod/starter.json
@@ -42,9 +49,6 @@ UPI            NIL           NIL       NIL         NIL        NIL       NIL
 NetBank         5           10         20          25         30       30
 Card           0.5%         0.5%       0.5%        0.5%       0.5%    0.5%           
 Wallet         0.7%         0.7%       0.7%        0.7%       0.7%    0.7%    
-
-
-
 
 #PayingGuest +Rent
 -----------------
