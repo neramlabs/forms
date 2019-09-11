@@ -30,7 +30,7 @@
     "admin":[
       {  
         "lowerlimit":0,
-        "amountpercentage":1.80
+        "amountpercentage":1.30
       }
     ]
   }
