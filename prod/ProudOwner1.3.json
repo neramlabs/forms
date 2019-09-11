@@ -1,0 +1,37 @@
+{  
+  "title":"ProudOwner",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+      "netbanking":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+       "wallet":[  
+        {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ]
+    },
+    "admin":[
+      {  
+        "lowerlimit":0,
+        "amountpercentage":1.80
+      }
+    ]
+  }
+}
