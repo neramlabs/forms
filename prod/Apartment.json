@@ -23,13 +23,13 @@
        "wallet":[  
        {  
           "lowerlimit":1,
-           "amountpercentage":1.5
+           "amountpercentage":1.6
         }
       ],
       "card":[  
        {  
           "lowerlimit":1,
-           "amountpercentage":1.2
+           "amountpercentage":1.5
         }
       ]
     },
