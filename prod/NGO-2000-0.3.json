@@ -1,0 +1,58 @@
+{  
+  "title":"NGO:2000rs-0.3%,10000Rs-1.0%",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+      ],
+      "netbanking":[  
+        {  
+          "lowerlimit":200001,
+            "amountpercentage":0.6
+        },
+        {  
+          "upperlimit":200000,
+          "lowerlimit": 50001,
+            "amount": 1200
+        },
+        {  
+          "upperlimit":50000,
+          "lowerlimit":1,
+          "amount":0
+        }
+      ],
+       "wallet":[  
+       {  
+          "lowerlimit":1,
+           "amountpercentage":1.3
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":1,
+           "amountpercentage":1.2
+        }
+      ]
+    },
+    "admin":[
+        {  
+          "lowerlimit":1000001,
+            "amountpercentage":1.0
+        },
+        {  
+          "upperlimit":1000000,
+          "lowerlimit": 200001,
+            "amountpercentage":0.3
+           
+        },
+        {  
+          "upperlimit":200000,
+          "lowerlimit":1,
+          "amount":0
+        }
+    ]
+  }
+}
