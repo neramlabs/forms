@@ -1,0 +1,48 @@
+{  
+  "title":"Business Use: 1.4 for less than 2000, 1.6% for above. No charges to end customers",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+      "netbanking":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+       "wallet":[  
+        {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":0,
+          "amount":0
+        }
+      ]
+    },
+    "admin":[
+        {  
+          "lowerlimit":200001,
+            "amountpercentage":1.6
+        },
+        {  
+          "upperlimit":200000,
+          "lowerlimit": 50001,
+            "amountpercentage":1.4
+           
+        },
+        {  
+          "upperlimit":50000,
+          "lowerlimit":1,
+          "amount":0
+        }
+    ]
+  }
+}
