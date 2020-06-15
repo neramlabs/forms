@@ -42,7 +42,7 @@ Business class :
 https://neramlabs.github.io/forms/prod/business-1.4-2000-1.6.json
 Why? 70:30 use of credit/debit cards. it will compensate.
             1-500    |  501 - 2000  |  2001 - MAX
-Admin         NIL           1.4%          1.6%          
+Admin         1.2%         1.4%          1.6%          
 UPI           NIL           NIL            NIL          
 NetBank       NIL           NIL            NIL             
 Card          NIL           NIL            NIL                
