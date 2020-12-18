@@ -10,9 +10,13 @@
       ],
       "netbanking":[  
         {  
-          "lowerlimit":50001,
-           "amountpercentage":0.3
-           
+          "lowerlimit":200000,
+          "amountpercentage":0.5
+        },        
+        {  
+          "upperlimit":199999,
+          "lowerlimit" :50001,
+          "amount":848
         },
         {  
           "upperlimit":50000,
