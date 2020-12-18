@@ -1,6 +1,16 @@
 #Self Link
 https://neramlabs.github.io/forms/prod/0links.txt
+edit link:- https://github.com/neramlabs/forms/
 
+#Booster
+https://neramlabs.github.io/forms/prod/BoostJan2021.json
+
+            1-500    |  501 - 2000  |  2001-10000  | 10001 - MAX
+Admin         NIL           0.6            1.2%           1.2%
+UPI           NIL           NIL            NIL            NIL
+NetBank       NIL           8/-            0.5%           0.5%      
+Card          0.9%   all         
+Wallet        0.9%   all     
 
 #ProudOwner
 -----------------
