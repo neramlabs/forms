@@ -1,0 +1,57 @@
+{  
+  "title":"IntroOffer",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":200000,
+          "amountpercentage":1.2
+        },        
+        {  
+          "upperlimit":199999,
+          "lowerlimit" :50001,
+          "amount":848
+        },
+        {  
+          "upperlimit":50000,
+          "lowerlimit":1,
+          "amount":255
+        }
+      ],
+      "netbanking":[  
+        {  
+          "lowerlimit":200000,
+          "amountpercentage":1.9
+        },        
+        {  
+          "upperlimit":199999,
+          "lowerlimit" :50001,
+          "amount":1695
+        },
+        {  
+          "upperlimit":50000,
+          "lowerlimit":1,
+          "amount":848
+        }
+      ],
+       "wallet":[  
+       {  
+          "lowerlimit":1,
+           "amountpercentage":2.1
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":1,
+           "amountpercentage":2.1
+        }
+      ]
+    },
+    "admin":[
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+    ]
+  }
+}
