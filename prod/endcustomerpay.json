@@ -1,5 +1,5 @@
 {  
-  "title":"IntroOffer",
+  "title":"End Customer Pay",
   "slabs":{  
     "user":{  
       "upi":[  
@@ -9,29 +9,14 @@
         },        
         {  
           "upperlimit":199999,
-          "lowerlimit" :50001,
-          "amount":848
-        },
-        {  
-          "upperlimit":50000,
           "lowerlimit":1,
-          "amount":255
+          "amountpercentage":0.6
         }
       ],
       "netbanking":[  
         {  
-          "lowerlimit":200000,
-          "amountpercentage":1.9
-        },        
-        {  
-          "upperlimit":199999,
-          "lowerlimit" :50001,
-          "amount":1695
-        },
-        {  
-          "upperlimit":50000,
           "lowerlimit":1,
-          "amount":848
+          "amountpercentage":1.8
         }
       ],
        "wallet":[  
