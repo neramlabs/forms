@@ -249,7 +249,7 @@
             },
             {
                "upperlimit":199999,
-               "lowerlimit":50002,
+               "lowerlimit":50001,
                "amountpercentage":0.6
             },
             {
