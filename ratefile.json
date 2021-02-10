@@ -255,7 +255,7 @@
             {
                "upperlimit":50000,
                "lowerlimit":1,
-               "amount":0
+               "amount":100
             }
          ]
       }
