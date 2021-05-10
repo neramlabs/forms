@@ -1,10 +1,8 @@
-[
-  {
-    "imagetag": "6C",
-    "location": "https://help.txt"
-  },
-  {
-    "imagetag": "7C",
-    "location": "https://help.txt"
-  }
-]
+{
+  "3C": "https://image/location/for/3c.png",
+  "5D": "https://image/location/for/5d.png",
+  "6C": "https://image/location/for/6c.png",
+  "7C": "https://image/location/for/7c.png",
+  "9C": "https://image/location/for/9c.png",
+  "10D": "https://image/location/for/7c.png"
+}
