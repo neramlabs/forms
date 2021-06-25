@@ -38,6 +38,7 @@ Wallet         0.9%         0.9%
     
 End Customer Pay
 ----------------
+https://neramlabs.github.io/forms/prod/endcustomerpay.2.0.json
 https://neramlabs.github.io/forms/prod/endcustomerpay.json
            
 Admin         NIL          NIL 
