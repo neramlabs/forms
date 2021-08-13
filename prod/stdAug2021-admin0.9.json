@@ -1,0 +1,37 @@
+{
+  "title": "stdAug2021-Admin0.9",
+  "slabs": {
+    "user": {
+      "upi": [
+        {
+          "lowerlimit": 1,
+          "amount": 0
+        }
+      ],
+      "netbanking": [
+        {
+          "lowerlimit": 1,
+          "amountpercentage": 1.0
+        }
+      ],
+      "wallet": [
+        {
+          "lowerlimit": 1,
+          "amountpercentage": 1.7
+        }
+      ],
+      "card": [
+        {
+          "lowerlimit": 1,
+          "amountpercentage": 1.5
+        }
+      ]
+    },
+    "admin": [
+      {
+        "lowerlimit": 1,
+        "amountpercentage": 0.9
+      }
+    ]
+  }
+}
