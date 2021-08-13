@@ -2,6 +2,15 @@
 https://neramlabs.github.io/forms/prod/0links.txt
 edit link:- https://github.com/neramlabs/forms/
 
+#STD AUg 2021 - Admin 0.9
+https://neramlabs.github.io/forms/prod/stdAug2021-admin0.9.json
+
+Admin         0.9%   all   
+UPI           NIL   
+NetBank       1.0%   all   
+Card          1.5%   all         
+Wallet        1.7%   all    
+
 #Booster
 https://neramlabs.github.io/forms/prod/BoostJan2021.json
 
