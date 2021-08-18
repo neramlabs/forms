@@ -1,0 +1,57 @@
+{
+  "title": "FullSettlement-Admin-charges-extra",
+  "slabs": {
+    "user": {
+      "upi": [
+        {
+          "lowerlimit": 501,
+          "amount": 0
+        },
+        {
+          "upperlimit": 500,
+          "lowerlimit": 1,
+          "amount": 500
+        }
+      ],
+      "netbanking": [
+        {
+          "lowerlimit": 501,
+          "amountpercentage": 1.3
+        },
+        {
+          "upperlimit": 500,
+          "lowerlimit": 1,
+          "amount": 500
+        }
+      ],
+      "wallet": [
+        {
+          "lowerlimit": 501,
+          "amountpercentage": 2
+        },
+        {
+          "upperlimit": 500,
+          "lowerlimit": 1,
+          "amount": 500
+        }
+      ],
+      "card": [
+        {
+          "lowerlimit": 501,
+          "amountpercentage": 1.9
+        },
+        {
+          "upperlimit": 500,
+          "lowerlimit": 1,
+          "amount": 500
+        }
+      ]
+    },
+    "admin": [
+      {
+        "lowerlimit": 1,
+        "amount": 0
+      }
+    ]
+  }
+}
