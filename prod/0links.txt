@@ -2,7 +2,7 @@
 https://neramlabs.github.io/forms/prod/0links.txt
 edit link:- https://github.com/neramlabs/forms/
 
-#STD AUg 2021 - Admin 0.9
+#STD Aug 2021 - Admin
 https://neramlabs.github.io/forms/prod/stdAug2021-Admin0.6.json
 https://neramlabs.github.io/forms/prod/stdAug2021-admin0.9.json
 https://neramlabs.github.io/forms/prod/stdAug2021-Admin1.2.json
@@ -14,6 +14,19 @@ UPI           NIL     NIL     NIL
 NetBank       1.3%    1.0%    0.7% 
 Card          1.9%    1.5%    1.2%        
 Wallet        2.0%    1.7%    1.4%  
+
+#Full settlement  AUg 2021 -
+https://neramlabs.github.io/forms/prod/FullSettlement-Aug2021.json
+
+Full settlement  Aug 2021
+---------------------------
+Admin         (need to be collected extra from the institute management)
+UPI           NIL    
+NetBank       1.3% 
+Card          1.9% 
+Wallet        2.0% 
+
+
 
 #Booster
 https://neramlabs.github.io/forms/prod/BoostJan2021.json
