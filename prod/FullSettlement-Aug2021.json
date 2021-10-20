@@ -49,6 +49,11 @@
     },
     "admin": [
       {
+        "lowerlimit": 101,
+        "amount": 0
+      },
+      {
+        "upperlimit": 100,
         "lowerlimit": 1,
         "amount": 0
       }
