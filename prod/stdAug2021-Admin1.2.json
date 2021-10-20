@@ -30,8 +30,13 @@
     },
     "admin": [
       {
-        "lowerlimit": 1,
+        "lowerlimit": 101,
         "amountpercentage": 1.2
+      },
+      {
+        "upperlimit": 100,
+        "lowerlimit": 1,
+        "amount": 0
       }
     ]
   }
