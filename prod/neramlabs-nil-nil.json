@@ -1,0 +1,37 @@
+{  
+  "title":"OnlyforNeramLabs-no charges from customer",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+      ],
+      "netbanking":[  
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+      ],
+       "wallet":[  
+       {  
+          "lowerlimit":1,
+           "amount":0
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":1,
+           "amount":0
+        }
+      ]
+    },
+    "admin":[
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+    ]
+  }
+}
