@@ -1,0 +1,88 @@
+{
+  "title": "International - Admin0.6",
+  "slabs": {
+    "user": {
+      "upi": [
+        {
+          "lowerlimit": 1,
+          "amount": 0
+        }
+      ],
+      "netbanking": [
+        {
+          "lowerlimit": 1,
+          "amountpercentage": 1.3
+        }
+      ],
+      "wallet": [
+        {
+          "lowerlimit": 1,
+          "amountpercentage": 2
+        }
+      ],
+      "card": [
+        {
+          "lowerlimit": 1,
+          "amountpercentage": 1.9
+        }
+      ]
+    },
+    "admin": [
+      {
+        "lowerlimit": 101,
+        "amountpercentage": 0.6
+      },
+      {
+        "upperlimit": 100,
+        "lowerlimit": 1,
+        "amount": 0
+      }
+    ],
+    "admin2": {
+      "upi": [
+        {
+          "lowerlimit": 101,
+          "amountpercentage": 0.6
+        },
+        {
+          "upperlimit": 100,
+          "lowerlimit": 1,
+          "amount": 0
+        }
+      ],
+      "netbanking": [
+        {
+          "lowerlimit": 101,
+          "amountpercentage": 0.6
+        },
+        {
+          "upperlimit": 100,
+          "lowerlimit": 1,
+          "amount": 0
+        }
+      ],
+      "card": [
+        {
+          "lowerlimit": 101,
+          "amountpercentage": 1.2
+        },
+        {
+          "upperlimit": 100,
+          "lowerlimit": 1,
+          "amount": 0
+        }
+      ],
+      "wallet": [
+        {
+          "lowerlimit": 101,
+          "amountpercentage": 0.6
+        },
+        {
+          "upperlimit": 100,
+          "lowerlimit": 1,
+          "amount": 0
+        }
+      ]
+    }
+  }
+}
