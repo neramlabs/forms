@@ -52,7 +52,14 @@ Wallet        0.9%   all
 #ProudOwner
 -----------------
 https://neramlabs.github.io/forms/prod/ProudOwner.json
-    Admin : 1.8%
+    Admin : 2.0%
+    Users : NIL for all methods
+
+#ProudOwner International
+-----------------
+https://neramlabs.github.io/forms/prod/ProudOwnerInternational.json
+    Admin UPI/Netbaking/Wallet: 2.0%
+    Admin CARD : 3.0%
     Users : NIL for all methods
     
 Platinum
