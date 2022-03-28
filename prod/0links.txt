@@ -2,6 +2,12 @@
 https://neramlabs.github.io/forms/prod/0links.txt
 edit link:- https://github.com/neramlabs/forms/
 
+https://neramlabs.github.io/forms/prod/DSRWWAOSWATER.json
+100/- for UPI 
+1.8%netbanking
+3.0%for cards
+
+
 #STD Aug 2021 - Admin
 https://neramlabs.github.io/forms/prod/stdAug2021-Admin0.6.json
 https://neramlabs.github.io/forms/prod/stdAug2021-admin0.9.json
