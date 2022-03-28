@@ -1,0 +1,37 @@
+{  
+  "title":"DSR WOODWINDS CAUVERY WATER COLLECTION",
+  "slabs":{  
+    "user":{  
+      "upi":[  
+        {  
+          "lowerlimit":1,
+          "amount":8475
+        }
+      ],
+      "netbanking":[  
+        {  
+          "lowerlimit":1,
+          "amountpercentage":1.8
+        }
+      ],
+       "wallet":[  
+       {  
+          "lowerlimit":1,
+           "amountpercentage":2.0
+        }
+      ],
+      "card":[  
+       {  
+          "lowerlimit":1,
+           "amountpercentage":3.0
+        }
+      ]
+    },
+    "admin":[
+        {  
+          "lowerlimit":1,
+          "amount":0
+        }
+    ]
+  }
+}
