@@ -5,12 +5,12 @@
       "upi":[
         {
             "lowerlimit":1750001,
-            "amount":16950
+            "amount":16949
         },
         {  
           "upperlimit":1750000,
           "lowerlimit":1,
-          "amount":8475
+          "amount":8474
         }
       ],
       "netbanking":[  
