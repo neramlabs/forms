@@ -4,7 +4,7 @@
     "user":{  
       "upi":[
         {
-            "lowerlimit":1750000,
+            "lowerlimit":1750001,
             "amount":16950
         },
         {  
