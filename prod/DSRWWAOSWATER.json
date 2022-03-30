@@ -3,18 +3,8 @@
   "slabs":{  
     "user":{  
       "upi":[
-        {
-            "lowerlimit":1750001,
-            "amount":16949
-        },
         {  
-          "upperlimit":1750000,
-          "lowerlimit":10001,
-          "amount":8475
-        },
-        {  
-          "upperlimit":10000,
-          "lowerlimit":1,
+         "lowerlimit":1,
           "amountpercentage":0.6
         }
       ],
