@@ -11,19 +11,19 @@
       "netbanking":[  
         {  
           "lowerlimit":1,
-          "amountpercentage":1.8
+          "amountpercentage":1.9
         }
       ],
        "wallet":[  
        {  
           "lowerlimit":1,
-           "amountpercentage":2.0
+           "amountpercentage":2.1
         }
       ],
       "card":[  
        {  
           "lowerlimit":1,
-           "amountpercentage":2.9
+           "amountpercentage":2.99
         }
       ]
     },
