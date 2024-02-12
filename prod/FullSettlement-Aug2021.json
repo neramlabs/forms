@@ -16,7 +16,7 @@
       "netbanking": [
         {
           "lowerlimit": 501,
-          "amountpercentage": 1.3
+          "amountpercentage": 1.7
         },
         {
           "upperlimit": 500,
@@ -27,7 +27,7 @@
       "wallet": [
         {
           "lowerlimit": 501,
-          "amountpercentage": 2
+          "amountpercentage": 2.4
         },
         {
           "upperlimit": 500,
@@ -38,7 +38,7 @@
       "card": [
         {
           "lowerlimit": 501,
-          "amountpercentage": 1.9
+          "amountpercentage": 2.1
         },
         {
           "upperlimit": 500,
@@ -49,11 +49,6 @@
     },
     "admin": [
       {
-        "lowerlimit": 101,
-        "amount": 0
-      },
-      {
-        "upperlimit": 100,
         "lowerlimit": 1,
         "amount": 0
       }
